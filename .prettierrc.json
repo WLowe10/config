@@ -1,4 +1,5 @@
 {
+	// test change with invalid json
 	"trailingComma": "es5",
 	"useTabs": true,
 	"tabWidth": 4,
