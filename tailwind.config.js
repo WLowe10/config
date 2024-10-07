@@ -1,0 +1,2 @@
+// tailwind stuff
+export default {};
